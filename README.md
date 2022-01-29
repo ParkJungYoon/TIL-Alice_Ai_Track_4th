@@ -26,8 +26,8 @@
   * [(21.01.25) 실시간 강의 (DOM과 이벤트)]
   * [(21.01.26) DOM과 이벤트]
   * [(21.01.27) 실시간 강의 (자바스크립트 원리 이해하기)]
-  * [(21.01.28) 자바스크립트 동작 원리]
-  * [(21.01.29) 자바스크립트 변수와 객체]
+  * [(21.01.28) 자바스크립트 동작 원리](https://github.com/ParkJungYoon/TIL-Alice_Ai_Track_4th/blob/1a3d6e30862cf3f36213bff54f00534ebf322266/Web/3%EC%A3%BC%EC%B0%A8-4.md)
+  * [(21.01.29) 자바스크립트 변수와 객체](https://github.com/ParkJungYoon/TIL-Alice_Ai_Track_4th/blob/90e39116f5b2c0dc1b404ecbfa9a8ff0ec68c791/Web/3%EC%A3%BC%EC%B0%A8-5.md)
 * 4주차 : JavaScript III
 
  > 목표: 비동기 프로그래밍과 Promise, async/await를 이용한 비동기 통신, API를 익히고 HTML/CSS, 자바스크립트를 활용해 미니 프로젝트를 진행합니다.
