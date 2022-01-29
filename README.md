@@ -1,5 +1,6 @@
 # Today I Learned
 * Elice  Ai Track 6개월 간의 나의 트랙을 기록하려고 한다.
+  * TIL 글은 Elice의 교육 콘텐츠를 기반하여 작성했습니다.
 * 끝까지 완주하자!
 
 ## Part1. 웹 프로그래밍
