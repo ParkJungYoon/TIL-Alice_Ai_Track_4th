@@ -11,7 +11,7 @@
   * [(21.01.12) 실시간 강의 (웹 코딩 기초,HTML)](https://github.com/ParkJungYoon/TIL-Alice_Ai_Track_4th/blob/8a5d2d682e44bba483720183961d0e57ac18eea1/Web/1%EC%A3%BC%EC%B0%A8-2.md)
   * [(21.01.13) 웹사이트 제작](https://github.com/ParkJungYoon/TIL-Alice_Ai_Track_4th/blob/46cd583027dd734cc578428d376bac279a40cddb/Web/1%EC%A3%BC%EC%B0%A8-3.md)
   * [(21.01.14) 실시간 강의 (CSS 다루기)](https://github.com/ParkJungYoon/TIL-Alice_Ai_Track_4th/blob/d645cf049fb7cfe5c0ea7d9c4113cf8367322e64/Web/1%EC%A3%BC%EC%B0%A8-4.md)
-  * [(21.01.15) Git을 사용한 버전 관리]
+  * [(21.01.15) Git을 사용한 버전 관리](https://github.com/ParkJungYoon/TIL-Alice_Ai_Track_4th/blob/d7bb6bb3fae2acb25c13033c9c3c8054ca5682a3/Web/1%EC%A3%BC%EC%B0%A8-5.md)
 * 2주차 : JavaScript I
  
   > 목표: 자바스크립트의 기초 개념과 문법을 익히고, 지금까지 배운 내용을 활용해 자기소개 페이지를 만들어봅니다.
