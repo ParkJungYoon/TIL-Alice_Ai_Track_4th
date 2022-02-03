@@ -25,7 +25,7 @@
   > 목표: 웹 페이지의 구조와 자바스크립트의 동작 원리를 익히고, 웹 페이지에 다양한 동적 기능을 추가해봅니다.
   * [(21.01.25) 실시간 강의 (DOM과 이벤트)](https://github.com/ParkJungYoon/TIL-Alice_Ai_Track_4th/blob/f62adb401d83f7a1652d3cbbe6127aef538f99b7/Web/3%EC%A3%BC%EC%B0%A8-1.md)
   * [(21.01.26) DOM과 이벤트](https://github.com/ParkJungYoon/TIL-Alice_Ai_Track_4th/blob/f62adb401d83f7a1652d3cbbe6127aef538f99b7/Web/3%EC%A3%BC%EC%B0%A8-2.md)
-  * [(21.01.27) 실시간 강의 (자바스크립트 원리 이해하기)]
+  * [(21.01.27) 실시간 강의 (자바스크립트 원리 이해하기)](https://github.com/ParkJungYoon/TIL-Alice_Ai_Track_4th/blob/26ef182ca47283ae07f4910fd4f1c531162754d6/Web/3%EC%A3%BC%EC%B0%A8-3.md)
   * [(21.01.28) 자바스크립트 동작 원리](https://github.com/ParkJungYoon/TIL-Alice_Ai_Track_4th/blob/1a3d6e30862cf3f36213bff54f00534ebf322266/Web/3%EC%A3%BC%EC%B0%A8-4.md)
   * [(21.01.29) 자바스크립트 변수와 객체](https://github.com/ParkJungYoon/TIL-Alice_Ai_Track_4th/blob/90e39116f5b2c0dc1b404ecbfa9a8ff0ec68c791/Web/3%EC%A3%BC%EC%B0%A8-5.md)
 * 4주차 : JavaScript III
