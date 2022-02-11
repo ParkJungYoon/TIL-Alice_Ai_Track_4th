@@ -1,4 +1,6 @@
 # Today I Learned
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkJungYoon%2FTIL-Alice_Ai_Track_4th&count_bg=%23FFD9D9&title_bg=%23FF7474&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 * Elice  Ai Track 6개월 간의 나의 트랙을 기록하려고 한다.
   * TIL 글은 Elice의 교육 콘텐츠를 기반하여 작성했습니다.
 * 끝까지 완주하자!
@@ -32,10 +34,10 @@
 * 4주차 : JavaScript III
 
   > 목표: 비동기 프로그래밍과 Promise, async/await를 이용한 비동기 통신, API를 익히고 HTML/CSS, 자바스크립트를 활용해 미니 프로젝트를 진행합니다.
-  * [(22.02.08) 실시간 강의 (비동기 통신)]
-  * [(22.02.09) 비동기 통신과 Promise]
-  * [(22.02.10) 실시간 강의 (async/await과 API)]
-  * [(22.02.11) async/await과 API]
+  * [(22.02.08) 실시간 강의 (비동기 통신)](./Web/4주차-1.md)
+  * [(22.02.09) 비동기 통신과 Promise](./Web/4주차-2.md)
+  * [(22.02.10) 실시간 강의 (async/await과 API)](./Web/4주차-3.md)
+  * [(22.02.11) async/await과 API](./Web/4주차-4.md)
   * [(22.02.12) 자바스크립트 프로젝트]
 
 
