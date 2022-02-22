@@ -10,12 +10,18 @@
 -var은 코드를 실행하기 전에 한번 훝으면서 var을 메모리에 다 올려버린다.
 -let, const(수정X)는 지역을 탄다.
 
-### 문제 풀이
+### 문법 복습
 
 * window.innerWidth : 현재 창의 너비
-* 함수 중첩이 closure
 
 * [Template_literals](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Template_literals)
 
 * [object literal](https://velog.io/@janghyoin/Replacing-switch-statements-with-Object-literals)
+
+#### < CharAt >
+
+#### [< indexOf >](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/String/indexOf)
+
+#### < slice >
+```.slice(0,100)```
 
