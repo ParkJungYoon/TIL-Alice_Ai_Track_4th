@@ -79,3 +79,13 @@
 #### 9 ~ 10주차 : 웹 서비스 팀 프로젝트
 
 - [Retrospection](https://hello-judy-world.tistory.com/category/%EC%97%98%EB%A6%AC%EC%8A%A4%20AI%20%ED%8A%B8%EB%9E%99%204%EA%B8%B0/1.%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EA%B3%B5%EC%9C%A0%20%EC%9B%B9%20%EC%84%9C%EB%B9%84%EC%8A%A4)
+
+<br>
+
+## Part2. 핵심 전산학 + 데이터 분석
+
+#### 11주차 : 데이터 구조
+
+- 파이썬
+  - [(22.03.29)](./Web/11주차-1.md) [(22.03.30)](./Web/11주차-2.md)
+  - [(22.03.31)](./Web/11주차-3.md) [(22.04.01)](./Web/11주차-4.md)
