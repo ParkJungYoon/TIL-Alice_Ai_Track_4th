@@ -87,8 +87,8 @@
 #### 11주차 : 데이터 구조
 
 - 파이썬
-  - [(22.03.29)](./Web/11주차-1.md) [(22.03.30)](./Web/11주차-2.md)
-  - [(22.03.31)](./Web/11주차-3.md) [(22.04.01)](./Web/11주차-4.md)
+  - [(22.03.29)](./DataAnalysis/11주차-1.md) [(22.03.30)](./DataAnalysis/11주차-2.md)
+  - [(22.03.31)](./DataAnalysis/11주차-3.md) [(22.04.01)](./DataAnalysis/11주차-4.md)
 - 자료구조, 스택과 큐
   - [(22.04.02)](https://github.com/ParkJungYoon/python_coding_test_study/blob/3474e8a5db305eff6a31848b4f9c7da286754c46/DataStructure/DataStructure.md) [(22.04.02)](https://github.com/ParkJungYoon/python_coding_test_study/blob/3474e8a5db305eff6a31848b4f9c7da286754c46/DataStructure/Stack&Queue.md)
 
