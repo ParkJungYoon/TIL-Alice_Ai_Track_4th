@@ -76,7 +76,7 @@
   - [(22.03.10)](./Web/8주차-3.md) [(22.03.11)](./Web/8주차-4.md)
 - [프론트엔드 설계](./Web/8%EC%A3%BC%EC%B0%A8-5.md)
 
-#### 9 ~ 10주차 : 웹 서비스 팀 프로젝트
+#### 9 ~ 10주차 : 웹 서비스 팀 프로젝트 I
 
 - [Retrospection](https://hello-judy-world.tistory.com/category/%EC%97%98%EB%A6%AC%EC%8A%A4%20AI%20%ED%8A%B8%EB%9E%99%204%EA%B8%B0/1.%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EA%B3%B5%EC%9C%A0%20%EC%9B%B9%20%EC%84%9C%EB%B9%84%EC%8A%A4)
 
@@ -93,3 +93,5 @@
   - [(22.04.02)](https://github.com/ParkJungYoon/python_coding_test_study/blob/3474e8a5db305eff6a31848b4f9c7da286754c46/DataStructure/DataStructure.md) [(22.04.02)](https://github.com/ParkJungYoon/python_coding_test_study/blob/3474e8a5db305eff6a31848b4f9c7da286754c46/DataStructure/Stack&Queue.md)
 
 #### 12주차 : 자료구조 + 알고리즘
+
+#### 14 ~ 16주차 : 웹 서비스 프로젝트 II
