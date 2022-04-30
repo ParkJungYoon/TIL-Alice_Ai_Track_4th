@@ -76,9 +76,9 @@
   - [(22.03.10)](./Web/8주차-3.md) [(22.03.11)](./Web/8주차-4.md)
 - [프론트엔드 설계](./Web/8%EC%A3%BC%EC%B0%A8-5.md)
 
-#### 9 ~ 10주차 : 웹 서비스 팀 프로젝트
+#### 9 ~ 10주차 : 웹 서비스 팀 프로젝트 I
 
-- [Retrospection](https://hello-judy-world.tistory.com/category/%EC%97%98%EB%A6%AC%EC%8A%A4%20AI%20%ED%8A%B8%EB%9E%99%204%EA%B8%B0/1.%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EA%B3%B5%EC%9C%A0%20%EC%9B%B9%20%EC%84%9C%EB%B9%84%EC%8A%A4)
+- [Retrospection](https://hello-judy-world.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/1.%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EA%B3%B5%EC%9C%A0%20%EC%9B%B9%20%EC%84%9C%EB%B9%84%EC%8A%A4)
 
 <br>
 
@@ -95,3 +95,7 @@
 #### 12주차 : 자료구조 + 알고리즘
 
 - 트리, 우선순위 큐와 힙 : [(22.04.06)](https://github.com/ParkJungYoon/python_coding_test_study/blob/main/DataStructure/Tree.md)[(22.04.06)](https://github.com/ParkJungYoon/python_coding_test_study/blob/main/DataStructure/PriorityQueue&Heap.md)
+
+#### 14 ~ 16주차 : 웹 서비스 프로젝트 II
+
+- [Retrospection](https://hello-judy-world.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/2.%20%20%EC%B9%B5%ED%85%8C%EC%9D%BC%20%EC%9B%B9%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%F0%9F%8D%B8)
