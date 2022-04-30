@@ -93,3 +93,5 @@
   - [(22.04.02)](https://github.com/ParkJungYoon/python_coding_test_study/blob/3474e8a5db305eff6a31848b4f9c7da286754c46/DataStructure/DataStructure.md) [(22.04.02)](https://github.com/ParkJungYoon/python_coding_test_study/blob/3474e8a5db305eff6a31848b4f9c7da286754c46/DataStructure/Stack&Queue.md)
 
 #### 12주차 : 자료구조 + 알고리즘
+
+- 트리, 우선순위 큐와 힙 : [(22.04.06)](https://github.com/ParkJungYoon/python_coding_test_study/blob/main/DataStructure/Tree.md)[(22.04.06)](https://github.com/ParkJungYoon/python_coding_test_study/blob/main/DataStructure/PriorityQueue&Heap.md)
