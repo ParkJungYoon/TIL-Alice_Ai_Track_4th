@@ -95,7 +95,17 @@
 #### 12주차 : 자료구조 + 알고리즘
 
 - 트리, 우선순위 큐와 힙 : [(22.04.06)](https://github.com/ParkJungYoon/python_coding_test_study/blob/main/DataStructure/Tree.md)[(22.04.06)](https://github.com/ParkJungYoon/python_coding_test_study/blob/main/DataStructure/PriorityQueue&Heap.md)
+- 문제 해결 절차와 시간복잡도 : [(22.04.07)](./DataAnalysis/12%EC%A3%BC%EC%B0%A8-3.md)
 
 #### 14 ~ 16주차 : 웹 서비스 프로젝트 II
 
 - [Retrospection](https://hello-judy-world.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/2.%20%20%EC%B9%B5%ED%85%8C%EC%9D%BC%20%EC%9B%B9%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%F0%9F%8D%B8)
+
+<br>
+
+## Part3. 인공지능
+
+#### 17주차 : 딥러닝 기초
+
+- 퍼셉트론
+  - [(22.05.11)](./AI/17%EC%A3%BC%EC%B0%A8-2.md)
